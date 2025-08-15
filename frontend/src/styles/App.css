@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+input {
+  padding: 0.5rem;
+  width: 300px;
+  margin-right: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+.result {
+  margin-top: 2rem;
+}
+
+.image-box {
+  width: 300px;
+  height: 200px;
+  background: #eee;
+  margin: 1rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+}
