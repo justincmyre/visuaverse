@@ -1,3 +1,4 @@
+<div id="root"></div>
 import React, { useState } from 'react';
 import axios from 'axios';
 import KeywordChart from './components/KeywordChart';
